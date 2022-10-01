@@ -1,0 +1,1 @@
+#A program that solves systems of linear algebraic equations by the Gauss method
